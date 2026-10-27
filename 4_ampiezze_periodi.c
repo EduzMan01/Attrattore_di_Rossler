@@ -1,5 +1,4 @@
-//Panno Edoardo Maria
-//Programma finalizzato a calcolare massimi e e periodi del sistema
+//Programma finalizzato a calcolare massimi e periodo del sistema
 
 #include<stdio.h>
 #include<stdlib.h>
