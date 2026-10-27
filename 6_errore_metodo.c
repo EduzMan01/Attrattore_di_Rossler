@@ -1,4 +1,3 @@
-//Panno Edoardo Maria 
 //programma finalizzato a calcolare il vettore (x, y, z) ad un tempo T_max scelto per diversi valori di dt anche questi inseriti da terminale
 
 #include<stdio.h>
