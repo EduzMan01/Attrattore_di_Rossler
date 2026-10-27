@@ -1,4 +1,3 @@
-//Panno Edoardo Maria
 //programma finalizzato a trovare il transiente del sistema una volta assegnati i valori di periodo e ampiezze per le tre coordinate
 
 #include<stdio.h>
