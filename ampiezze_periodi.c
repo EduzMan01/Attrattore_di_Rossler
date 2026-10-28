@@ -68,7 +68,7 @@ int main (int argc, char *argv[])
   xEv_new = uguaglianza_spaziofasi(xEv_old);
   
   //scrivo su file i valori al tempo zero e i valori dei parametri inseriti
-  fpr=fopen("../0_ToPython/integratore.dat", "w");
+  fpr=fopen("integratore.dat", "w");
   if(fpr==NULL)
     {
       printf("#Errore apertura file scrittura dati\n");
@@ -146,7 +146,7 @@ int main (int argc, char *argv[])
   /************* FINE PARTE PERIODI DI Z *********************/
 
   //scrivo tutti i riaultati su file
-  pFris=fopen("../0_ToPython/ampiezze_periodo.dat", "w");  //apro il file in scrittura
+  pFris=fopen("ampiezze_periodo.dat", "w");  //apro il file in scrittura
   if(pFris==NULL) //verifico la corretta apertura del file
     {
       printf("#Errore apertura file scrittura risultati\n");
